@@ -1,3 +1,3 @@
-# SQLZOO-Helpdesk-Easy-Questions-Solutions
+# SQLZOO-Helpdesk
 
-Solutions to https://sqlzoo.net/wiki/Helpdesk_Easy_Questions
+Solutions to https://sqlzoo.net/wiki/Help_Desk
